@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<checks>
+  <check>
+    <date>22/09/2016 17:20:37</date>
+    <type>CheckedIn</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:20:43</date>
+    <type>CheckedOut</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:36:57</date>
+    <type>CheckedIn</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:37:01</date>
+    <type>CheckedOut</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:38:57</date>
+    <type>CheckedIn</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:39:09</date>
+    <type>CheckedOut</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 17:48:07</date>
+    <type>CheckedIn</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 18:00:44</date>
+    <type>CheckedOut</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>22/09/2016 18:07:42</date>
+    <type>CheckedIn</type>
+    <origin>90.120.227.233</origin>
+  </check>
+  <check>
+    <date>23/09/2016 10:03:40</date>
+    <type>CheckedOut</type>
+    <origin>90.120.227.233</origin>
+  </check>
+</checks>

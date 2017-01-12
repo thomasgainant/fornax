@@ -1,0 +1,9 @@
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Release\FreelancerGestion.exe.config
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Release\FreelancerGestion.exe
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Release\FreelancerGestion.pdb
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.Form1.resources
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.Properties.Resources.resources
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.csproj.GenerateResource.Cache
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.exe
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.pdb
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Release\FreelancerGestion.Form2.resources

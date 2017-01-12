@@ -1,0 +1,10 @@
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Debug\FreelancerGestion.exe.config
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Debug\FreelancerGestion.exe
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\bin\Debug\FreelancerGestion.pdb
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.csprojResolveAssemblyReference.cache
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.Form1.resources
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.Properties.Resources.resources
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.csproj.GenerateResource.Cache
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.exe
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.pdb
+D:\ProjetFreelancerGestion\FreelancerGestion\FreelancerGestion\obj\Debug\FreelancerGestion.Form2.resources
