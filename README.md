@@ -1,6 +1,8 @@
 # forax
 Logiciel de gestion de temps (pointeuse) et de comptabilité pour freelance
 
+<em>Copie de l'article sur le site officiel de twothirds : http://twothirds.fr/forax-logiciel-gratuit-de-gestion-de-temps-pointeuse-et-de-comptabilite/</em>
+
 Forax est un logiciel réalisé en C# sur .NET qui permet à un freelance de pointer, calculer ses heures de travail et connaitre son prix de facturation.
 
 <img src="http://twothirds.fr/medias/logo-300x173.png" alt="fornax-logo">
