@@ -1,9 +1,9 @@
-# forax
+# fornax
 Logiciel de gestion de temps (pointeuse) et de comptabilité pour freelance
 
-<em>Copie de l'article sur le site officiel de twothirds : http://twothirds.fr/forax-logiciel-gratuit-de-gestion-de-temps-pointeuse-et-de-comptabilite/</em>
+<em>Copie de l'article sur le site officiel de twothirds : http://twothirds.fr/fornax-logiciel-gratuit-de-gestion-de-temps-pointeuse-et-de-comptabilite/</em>
 
-Forax est un logiciel réalisé en C# sur .NET qui permet à un freelance de pointer, calculer ses heures de travail et connaitre son prix de facturation.
+Fornax est un logiciel réalisé en C# sur .NET qui permet à un freelance de pointer, calculer ses heures de travail et connaitre son prix de facturation.
 
 <img src="http://twothirds.fr/medias/logo-300x173.png" alt="fornax-logo">
 
@@ -21,6 +21,6 @@ Un clic sur le bouton « Comptabilité » fera apparaître une nouvelle fenêtre
 
 La liste des checks et la liste des écritures comptables sont sauvegardées dans deux fichiers respectifs : checks.xml et entries.xml qui seront créés dans le dossier où vous placer l’exécutable dès vos premiers checks et vos premières écritures. Si vous souhaitez sauvegarder ces fichiers ailleurs, il suffit de les copier coller à un autre endroit. Si vous souhaitez reprendre à zéro, il suffit de les renommer ou de les supprimer. Le logiciel cherchera uniquement ces fichiers en fonction des noms « checks.xml » et « entries.xml » au sein de son propre dossier.
 
-Le logiciel en est à sa toute première version et les fonctionnalités sont basiques mais efficaces car nous n’avions pas besoin de plus. Nous avons pensé qu’il pourrait être utile pour d’autres entreprises ou freelances et c’est pourquoi nous le publions actuellement sous license Apache 2.0. Le projet est disponible sur GitHub : https://github.com/twothirdsFR/forax
+Le logiciel en est à sa toute première version et les fonctionnalités sont basiques mais efficaces car nous n’avions pas besoin de plus. Nous avons pensé qu’il pourrait être utile pour d’autres entreprises ou freelances et c’est pourquoi nous le publions actuellement sous license Apache 2.0. Le projet est disponible sur GitHub : https://github.com/twothirdsFR/fornax
 
 La solution Microsoft Visual Studio est disponible sur GitHub, ainsi que l’exécutable Windows qui permet de télécharger le logiciel compilé.
